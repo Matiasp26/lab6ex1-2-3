@@ -1,9 +1,9 @@
 package com.company;
 import java.util.ArrayList;
 
-public class ex1 {
+public class Ex1 {
 
-    public static void ex1(String[] args) {
+    public static void main(String[] args) {
 	    ArrayList<String> students = new ArrayList<String>();
         students.add("Ionut");
         students.add("Bogdan");
